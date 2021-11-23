@@ -1,1 +1,1 @@
-tutaj są zmiany dla mastera
+tutaj są zmiany dla mastera oraz dla wersji newBranch < po trochu
