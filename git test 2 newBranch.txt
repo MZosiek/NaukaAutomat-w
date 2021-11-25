@@ -1,1 +1,3 @@
-tutaj są zmiany dla mastera oraz dla wersji newBranch < po trochu < a teraz wpiszę jeszcze raz v2
+tutaj są zmiany dla mastera oraz dla wersji newBranch < po trochu < a teraz wpiszę jeszcze raz v2 (main) <-- a tutaj kilka poprawek v1 (newBranch)
+
+
