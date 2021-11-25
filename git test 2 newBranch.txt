@@ -1,1 +1,1 @@
-wersja newBranch 
+wersja newBranch <-- a tutaj kilka poprawek v1
