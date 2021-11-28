@@ -1,0 +1,4 @@
+git stash 	- zapisanie trackowanej zmiany w schowku. 
+		- trzeba pamiętać że zmiana MUSI być trackowana aby wejść do schowka - jeżeli nie jest to nic się nie stanie
+aby wywołać zmiany:
+ - git stash apply - zmiany zostaną wywrócone - można je usunąć checkoutem 
