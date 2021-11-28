@@ -1,0 +1,2 @@
+git fetch - pobiera zawartość repo zdalnego na dysk 
++ git merge- dodanie zmian do brancha - tego co zostało pobrane

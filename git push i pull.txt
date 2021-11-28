@@ -1,0 +1,3 @@
+git push - ( git push origin <nazwa brancha>((main)) ) - wrzuca zmiany z repozytorium lokalnego na repozytorium zdalne
+git pull - ( git pull origin <nazwa brancha>((main)) ) - ściąga zmiany z repozytorium zdalnego na lokalny i od razu je merguje z jego zawartością. Czyli wszystko w danym
+folderze zostanie nadpisane tym co znajduje się na repo zdalnym.
